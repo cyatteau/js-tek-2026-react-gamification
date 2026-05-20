@@ -1,0 +1,146 @@
+{
+  "landmarks": [
+    {
+      "name": "Sheraton Suites Chicago O'Hare (JS Tek HQ)",
+      "address": "6501 Mannheim Road, Rosemont, IL 60018",
+      "coordinates": {
+        "latitude": 41.9974,
+        "longitude": -87.8847
+      },
+      "description": "The JS Tek 2026 home base in Rosemont. Start the quest here before sending attendees out to nearby Rosemont stops.",
+      "quiz": [
+        {
+          "question": "JS Tek 2026 is hosted at which Rosemont hotel?",
+          "options": [
+            "Sheraton Suites Chicago O'Hare",
+            "Hyatt Regency O'Hare Chicago",
+            "Loews Chicago O'Hare Hotel",
+            "Hilton Chicago O'Hare Airport"
+          ],
+          "answer": "Sheraton Suites Chicago O'Hare"
+        }
+      ]
+    },
+    {
+      "name": "Fashion Outlets of Chicago",
+      "address": "5220 Fashion Outlets Way, Rosemont, IL 60018",
+      "coordinates": {
+        "latitude": 41.97496,
+        "longitude": -87.867226
+      },
+      "description": "A nearby indoor outlet mall that gives the demo a recognizable Rosemont checkpoint close to the conference area.",
+      "quiz": [
+        {
+          "question": "What kind of place is Fashion Outlets of Chicago?",
+          "options": [
+            "Outlet shopping",
+            "Airport terminal",
+            "Convention center",
+            "Baseball stadium"
+          ],
+          "answer": "Outlet shopping"
+        }
+      ]
+    },
+    {
+      "name": "Parkway Bank Park Entertainment District",
+      "address": "5501 Park Place, Rosemont, IL 60018",
+      "coordinates": {
+        "latitude": 41.9771,
+        "longitude": -87.868
+      },
+      "description": "Rosemont's dining and entertainment district, useful as the 'after the conference' quest stop.",
+      "quiz": [
+        {
+          "question": "What type of Rosemont destination is Parkway Bank Park?",
+          "options": [
+            "Dining and entertainment district",
+            "Airport runway",
+            "University campus",
+            "Museum district"
+          ],
+          "answer": "Dining and entertainment district"
+        }
+      ]
+    },
+    {
+      "name": "Rosemont Theatre",
+      "address": "5400 N. River Road, Rosemont, IL 60018",
+      "coordinates": {
+        "latitude": 41.97619,
+        "longitude": -87.86418
+      },
+      "description": "A major live-event venue near the outlet mall and entertainment district, perfect for a show-themed badge.",
+      "quiz": [
+        {
+          "question": "Rosemont Theatre is mainly used for what?",
+          "options": [
+            "Live performances and events",
+            "Train transfers",
+            "Airport security",
+            "Software workshops"
+          ],
+          "answer": "Live performances and events"
+        }
+      ]
+    },
+    {
+      "name": "Donald E. Stephens Convention Center",
+      "address": "5555 N. River Road, Rosemont, IL 60018",
+      "coordinates": {
+        "latitude": 41.979,
+        "longitude": -87.8616
+      },
+      "description": "Rosemont's large convention and trade-show venue, a natural dev-conference-adjacent landmark.",
+      "quiz": [
+        {
+          "question": "What is the Donald E. Stephens Convention Center mostly known for hosting?",
+          "options": [
+            "Conventions and exhibitions",
+            "Theme park rides",
+            "Passenger flights",
+            "Beach events"
+          ],
+          "answer": "Conventions and exhibitions"
+        }
+      ]
+    },
+    {
+      "name": "Rosemont CTA Blue Line Station",
+      "address": "5801 N. River Road, Rosemont, IL 60018",
+      "coordinates": {
+        "latitude": 41.9835,
+        "longitude": -87.8599
+      },
+      "description": "A useful transit checkpoint for attendees heading between Rosemont, O'Hare, and Chicago.",
+      "quiz": [
+        {
+          "question": "Which CTA line serves the Rosemont station?",
+          "options": ["Blue Line", "Red Line", "Brown Line", "Orange Line"],
+          "answer": "Blue Line"
+        }
+      ]
+    },
+    {
+      "name": "Allstate Arena",
+      "address": "6920 N. Mannheim Road, Rosemont, IL 60018",
+      "coordinates": {
+        "latitude": 42.0048,
+        "longitude": -87.8872
+      },
+      "description": "A nearby Rosemont arena for sports, concerts, and big live events. This makes a fun high-energy challenge stop.",
+      "quiz": [
+        {
+          "question": "What kind of events is Allstate Arena known for?",
+          "options": [
+            "Sports and concerts",
+            "Art classes only",
+            "Airport baggage claim",
+            "Boat tours"
+          ],
+          "answer": "Sports and concerts"
+        }
+      ]
+    }
+  ]
+}
